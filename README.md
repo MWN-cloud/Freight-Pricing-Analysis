@@ -15,4 +15,5 @@ The command line/terminal produces;
 
 ## Notes
 Model: Gradient Boost Regressor 
+
 Prophet time series used to predict market index and quote signal
